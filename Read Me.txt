@@ -1,0 +1,16 @@
+# Intermediate-AI
+[C#]Morgana AI will ease your life with her new and advanced features. This is an upgraded version of [C++]Morgana AI.
+
+F U N C T I O N S
+----------------------------
+Personal Questions
+Color Events
+File Operations (Read/Write/Remove/Open)
+Application Opening
+Website Opening
+GIF Maker
+Hacker Mode
+Image Comparison (Like my other app "Image Comparator")
+Text File Character Converter (Converts Turkish characters to English characters)
+
+[Note]: You can ask her functions at any time
