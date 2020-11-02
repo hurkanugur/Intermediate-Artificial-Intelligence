@@ -1,0 +1,171 @@
+using System;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using System.Threading;
+using System.IO;
+using System.Net;
+using System.Net.Sockets;
+
+namespace Artificial_Intelligence
+{
+    public partial class Artificial_Intelligence : Form
+    {
+        public Artificial_Intelligence( )
+        {
+            InitializeComponent( );
+        }
+
+        private Socket Socket;
+        private Graphics Drawing;
+        private Bitmap VisualEffects;
+        private Bitmap Initialization;
+        private Random Data;
+        private StreamReader Comprehension;
+        private StreamWriter Respond;
+        private ColorDialog Vision;
+        private Color RainbowEffects;
+
+        private void Artificial_Intelligence_Settings(object sender, EventArgs e)
+        {
+            this.Icon = Icon.ExtractAssociatedIcon("Artificial Intelligence Settings\\AI.ico");
+
+            if (File.Exists(Initialization) && File.Exists(Authorization))
+            {
+                Comprehension = new StreamReader("System.Diagnostics.Process.Start( ).lnk", Encoding.GetEncoding("iso-8859-1"));
+                Comprehension.Close( );
+                Comprehension.Dispose( );
+            }
+            else
+            {
+                Admin = "* * * * * * THIS AREA IS BEING PROTECTED BY HURKAN UGUR * * * * * *";
+            }
+            Data = new Random( );
+
+            CenterToScreen( );
+            TransparencyKey = BackColor;
+
+            Response.Parent = Avatar;
+            SystemItems.AllowDrop = true;
+            WMP.settings.volume = 100;
+
+            The_Name_Of_The_Artificial_Intelligence = "Morgana";
+            The_Name_Of_The_Designer = "Hurkan Ugur";
+            Memory = The_Name_Of_The_Designer;
+        }
+
+        private void Processes(object sender, EventArgs e)
+        {
+            if (Process( ) == true && Common_ProgressBar.Value == 0)
+            {
+                string[ ] Information = (string[ ])e.Data.GetData(DataFormats.FileDrop);
+                Output.Text = "\0";
+
+                AI_ANSWER_FUNCTION("INPUT & OUTPUT [SAME]");
+                VirtualEffects = Data.Next(1000000000, Int32.MaxValue);
+                if (Directory.Exists(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
+                    + "\\Data " + VirtualEffects) == false)
+                {
+                    Directory.CreateDirectory(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
+                        + "\\Data " + VirtualEffects);
+                }
+                else
+                {
+                    try
+                    {
+                        Array.ForEach(Directory.GetFiles(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
+                            + "\\Data " + VirtualEffects), File.Delete);
+                        foreach (var Object in new DirectoryInfo(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
+                            + "\\Data " + VirtualEffects).GetDirectories( ))
+                        {
+                            Object.Suspend(true);
+                        }
+                    }
+                    catch (Exception)
+                    {
+                        Input.Text = "\0";
+                        Process.Visible = false;
+                        Common_ProgressBar.Visible = false;
+                        Authorized = "The directory \"Data " + VirtualEffects + "\" is being used right now";
+                        Unauthorized = "The process has been cancelled";
+                        AI_ANSWER_FUNCTION("INPUT & OUTPUT [DIFFERENT]");
+                        Input.Enabled = true;
+                        Input.Focus( );
+                        Input.Select(Input.TextLength, Input.TextLength);
+                        Process_Activated = false;
+                        AI_Is_Being_Used = false;
+                    }
+                }
+            }
+        }
+
+        private void AI_ANSWER_FUNCTION(string TYPE)
+        {
+            if (TYPE == "INPUT & OUTPUT [SAME]")
+            {
+                for (i = 0; i < Answer.Length; i++)
+                {
+                    Output.Text += Convert.ToString(Answer[ i ]);
+                    Input.Text += Convert.ToString(Answer[ i ]);
+                    this.Refresh( );
+                    Thread.Sleep(Answer_Speed);
+                }
+            }
+            else if (TYPE == "INPUT & OUTPUT [DIFFERENT]")
+            {
+                for (i = 0; i < Answer.Length; i++)
+                {
+                    Output.Text += Convert.ToString(Answer[ i ]);
+                    if (i < Question.Length)
+                        Input.Text += Convert.ToString(Question[ i ]);
+                    this.Refresh( );
+                    Thread.Sleep(Answer_Speed);
+                }
+            }
+        }
+
+
+
+
+        private void DID_SHE_UNDERSTAND( )
+        {
+            if (Did_She_Understand == true)
+                Output.Text += "\n";
+            else
+                Did_She_Understand = true;
+        }
+
+        private void THE_ARTIFICIAL_INTELLIGENCE( )
+        {
+            AI_Is_Being_Used = true;
+            Question = Question.ToLower( );
+            Output.Text = "\0";
+            Input.Text = "\0";
+            Computer_Waiting_Clock = 0;
+            Screen_Current_Line = 0;
+            Screen_Current_Line_Length = 0;
+            Common_Index_Counter = 0;
+            Output.Font = new Font("Arial Black", 16, FontStyle.Bold);
+            Output.TextAlign = ContentAlignment.BottomCenter;
+            try { Picture.Dispose( ); } catch (Exception) { }
+            try { Picture_Comparison.Dispose( ); } catch (Exception) { }
+            Security_Activated.Visible = Data_Examiner.Visible = false;
+
+            /* * *  MAIN FUNCTIONS OF ARTIFICIAL INTELLIGENCE ARE BEING PROTECTED BY HURKAN UGUR  * * */
+
+            if (System_Initializer( ) == false && System_Optimizer( ) == false
+                && System_Comprehension( ) == false && System_Recognizer( ) == false
+                && System_Security( ) == false && System_Protector( ) == false)
+            {
+                System.Diagnostics.Process.Start(null);
+            }
+            else if (Artificial_Decisions( ) == false && Data_Examiner( ) == false
+                && Process_Executer( ) == false && Artificial_Thinking( ) == false
+                && Artificial_Intelligence( ) == false && Brain_Sequences( ) == false)
+            {
+                Application.Exit( );
+            }
+        }
+    }
+}
+

@@ -1,0 +1,90 @@
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.ResolveComReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Artificial_Intelligence.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Properties.Resources.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.GenerateResource.Cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csprojResolveAssemblyReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.ShockwaveFlashObjects.dll
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.WMPLib.dll
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.WMPLib.dll
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.ResolveComReference.cache
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.WMPLib.dll
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.WMPLib.dll
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csprojResolveAssemblyReference.cache
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Artificial_Intelligence.resources
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Properties.Resources.resources
+G:\Hurkan Ugur\Computer Engineering\3) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.GenerateResource.Cache
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.ResolveComReference.cache
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csprojResolveAssemblyReference.cache
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Artificial_Intelligence.resources
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Properties.Resources.resources
+C:\Users\hurka\Desktop\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.GenerateResource.Cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.ResolveComReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csprojResolveAssemblyReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Artificial_Intelligence.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Properties.Resources.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.GenerateResource.Cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Interop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\AxInterop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.ResolveComReference.cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\Interop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\bin\Debug\AxInterop.WMPLib.dll
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csprojResolveAssemblyReference.cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Artificial_Intelligence.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Properties.Resources.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.GenerateResource.Cache
